@@ -29,4 +29,5 @@
 }
 #showcase .primary-overlay{
     background: var(--primary-overlay);
+    min-height: 600px;
 }
