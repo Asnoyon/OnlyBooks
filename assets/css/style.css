@@ -23,3 +23,6 @@
  a{
     text-decoration: none;
 }
+#showcase{
+    background-image: url('../img/mountains.jpg');
+}
