@@ -20,6 +20,6 @@
 .navbar .nav-item .nav-link:hover{
     color: var(--primary);
 }
-.navbar .container a{
+ a{
     text-decoration: none;
 }
