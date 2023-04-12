@@ -31,3 +31,7 @@
     background: var(--primary-overlay);
     min-height: 600px;
 }
+
+#subscribe{
+    background: #252525;
+}
