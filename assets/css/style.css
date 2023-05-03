@@ -6,7 +6,7 @@
 .navbar{
     box-shadow: 2px 2px 5px var(--primary);
     background: #fff;
-    opacity: 0.9;
+    opacity: 0.8;
 }
 .navbar .nav-item{
     font-size: 1.3rem;
